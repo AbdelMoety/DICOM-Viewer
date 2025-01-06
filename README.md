@@ -61,6 +61,9 @@ You can install all dependencies using the `requirements.txt` file.
 ### metaData
 ![metaData](screenShots/metaData.png)
 
+## **Video**
+![DCMViewer](video\DCMViewer.mp4)
+
 ## **License**
 
 This project is licensed under the MIT License.
