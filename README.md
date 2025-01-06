@@ -62,7 +62,7 @@ You can install all dependencies using the `requirements.txt` file.
 ![metaData](screenShots/metaData.png)
 
 ## **Video**
-![DCMViewer](video/DCMViewer.mp4)
+![DCMViewer](https://drive.google.com/file/d/1NCdBziRvn23PG3f6jNLqq3UrYkpVlCdI/view?usp=drive_link)
 
 ## **License**
 
