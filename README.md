@@ -59,8 +59,10 @@ You can install all dependencies using the `requirements.txt` file.
 ![Anonymization](screenShots/Anonymization.png)
 
 ### metaData
-
 ![metaData](screenShots/metaData.png)
+
+## **Video**
+https://github.com/user-attachments/assets/16f3a517-2c6f-494b-8c53-34405b93048c
 
 ## **License**
 
