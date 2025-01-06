@@ -59,10 +59,8 @@ You can install all dependencies using the `requirements.txt` file.
 ![Anonymization](screenShots/Anonymization.png)
 
 ### metaData
-![metaData](screenShots/metaData.png)
 
-## **Video**
-![DCMViewer](https://drive.google.com/file/d/1NCdBziRvn23PG3f6jNLqq3UrYkpVlCdI/view?usp=drive_link)
+![metaData](screenShots/metaData.png)
 
 ## **License**
 
